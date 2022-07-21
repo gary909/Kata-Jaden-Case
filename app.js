@@ -14,4 +14,5 @@ function jadenCase(s) {
     return splitStr.join(" ");
 }
 
-console.log(jadenCase("How can mirrors be real if our eyes aren't real")); // "How Can Mirrors Be Real If Our Eyes Aren't Real"
+console.log(jadenCase("How can mirrors be real if our eyes aren't real"));
+// "How Can Mirrors Be Real If Our Eyes Aren't Real"
